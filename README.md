@@ -9,8 +9,8 @@ Subway exit<br>
 
 <br>total=2596<br>
 
-Training: 300sec<br>
-Testing1: 301-1700 second<br>
+Training: 300sec - (227, 227, 5) <br>
+Testing1: 301-1700 (227, 227, 38)second<br>
 Testing2: 1701-2596<br>
 Anomaly at the following time<br>
 
