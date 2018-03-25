@@ -1,13 +1,13 @@
 # AnomalyDetectionInVideo
 
 
-Split the video into peaces\n
-ffmpeg -i source-file.foo -ss 0 -t 600 first-10-min.m4v\n\n
+Split the video into peaces<br>
+ffmpeg -i source-file.foo -ss 0 -t 600 first-10-min.m4v<br>
 
-Subway exit\n
+Subway exit<br>
 ---------------
 
-\ntotal=2596\n
+<br>total=2596<br>
 
 Training: 300sec\n
 Testing1: 301-1700 second\n
